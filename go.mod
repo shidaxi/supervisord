@@ -6,6 +6,7 @@ require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/rpc v1.2.0
+	github.com/hashicorp/go-envparse v0.1.0 // indirect
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
 	github.com/kardianos/service v1.2.0
@@ -25,7 +26,6 @@ require (
 	github.com/prometheus/client_golang v1.10.0
 	github.com/prometheus/common v0.23.0 // indirect
 	github.com/sirupsen/logrus v1.8.1
-	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
 	golang.org/x/sys v0.0.0-20210503080704-8803ae5d1324 // indirect
 )
 
